@@ -1,6 +1,8 @@
 # COMP7103C-Project
 LSTM.ipynb is the code for LSTM model.
+
 CNNStock.ipynb is the code for CNN model.
+
 These codes can be run in order.
 
 
